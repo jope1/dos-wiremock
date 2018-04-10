@@ -1,0 +1,19 @@
+{
+  "request": {
+    "url": "/app/api/webservices",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "contains": "CheckCapacitySummary"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "./CheckCapacitySummaryResponse.xml",
+    "fixedDelayMilliseconds": 1000,
+    "headers": {
+      "Content-Type": "application/soap+xml"
+    }
+  }
+}

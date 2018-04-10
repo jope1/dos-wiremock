@@ -1,0 +1,224 @@
+<env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="https://nww.pathwaysdos.nhs.uk/app/api/webservices">
+   <env:Body>
+      <ns1:GetHospitalScoresResponse>
+         <ns1:GetHospitalScoresResult>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>231</ns1:total_score>
+               <ns1:note>Critcon 1. 11 11Pts in ED awaiting a bed. OPEL 1. Resus 3/6.</ns1:note>
+               <ns1:update_date>2018-01-30 09:33:19</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>241</ns1:total_score>
+               <ns1:note>CritCon 0, OPEL 2 Black Escalation Alert&amp;#10;9 DTA&amp;#39;s all unplaced in the A &amp;#38; E department. No Capacity in all specialties</ns1:note>
+               <ns1:update_date>2018-01-30 10:02:15</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>169</ns1:total_score>
+               <ns1:note>crit con 0 &amp;#10;Opel 1 No infection control issues&amp;#10;occ 99.63%</ns1:note>
+               <ns1:update_date>2018-01-30 08:30:19</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>218</ns1:total_score>
+               <ns1:note><![CDATA[CritCon: 0. OPEL Level 2&#10;Emergency Department:Very Busy&#10;Multiple unplace DTA&#39;s :7&#10;Staffing Trust wide:  Amber&#10;Limited capacity across all specialities. &#10;]]></ns1:note>
+               <ns1:update_date>2018-01-30 09:26:26</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>156</ns1:total_score>
+               <ns1:note><![CDATA[OPEL level 1&#10;Limited general bed capacity tight. Paediatric bed capacity.&#10;Stroke unit closed due to flu. ED waiting time 2.5 hours&#10;Limited ITU capacity&#10;Maternity and NICU Amber&#10;&#10;]]></ns1:note>
+               <ns1:update_date>2018-01-30 10:15:07</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>366</ns1:total_score>
+               <ns1:note>Opel- level 1.   All escalation areas open and in use . no   acute general medical beds, no surgical no ITU and CCU bed, no OPS and NO ops bed, no paeds cubicle</ns1:note>
+               <ns1:update_date>2018-01-30 09:57:42</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>232</ns1:total_score>
+               <ns1:note><![CDATA[OPEL -2&#10;Critcon: 0&#10;Stroke: 1 bed available.&#10;Adult: Full to capacity across all specialties. Poor predicted discharge profile.&#10;ACCU : Full.&#10;PAEDS: Full. No cubicles.  PICU: Full&#10;Maternity:green]]></ns1:note>
+               <ns1:update_date>2018-01-30 09:44:36</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>163</ns1:total_score>
+               <ns1:note>ED remains busy, No empty beds in Trust.30 Escalation beds also full.  NO ITU CAPACITY. No CCU capacity&amp;#10;CRITCON 1A&amp;#10;</ns1:note>
+               <ns1:update_date>2018-01-30 09:04:19</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>363</ns1:total_score>
+               <ns1:note>.</ns1:note>
+               <ns1:update_date>2018-01-30 10:05:02</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>100</ns1:total_score>
+               <ns1:note>No significant operational issues. Supporting other Imperial sites where possible.&amp;#10;&amp;#10;</ns1:note>
+               <ns1:update_date>2018-01-30 10:03:01</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>191</ns1:total_score>
+               <ns1:note>Critcon 1. ITU 0 HDU 0 CCU 0. Paed beds 1 cubicles 4, 1 HDU. Maternity on Green. A/E busy but steady. Resus 4/ 4</ns1:note>
+               <ns1:update_date>2018-01-30 09:38:32</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>243</ns1:total_score>
+               <ns1:note>Criticon:- 0, x 1 PAMI, x 1 HASU, 1 ITU. No adult capacity with DTA&amp;#39;s in ED, CDU and MAC to place.&amp;#10; Paeds beds and cubicle available. PICU OTR.</ns1:note>
+               <ns1:update_date>2018-01-30 10:11:40</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>232</ns1:total_score>
+               <ns1:note>limited capacity. 9 pts with DTA.</ns1:note>
+               <ns1:update_date>2018-01-30 06:18:12</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>157</ns1:total_score>
+               <ns1:note>Critcon 1: 3 ICU (+3 in OIR), 0 HDU&amp;#60; 1 CCU. Internal escalation re capacity across all specialties. All flex beds open.</ns1:note>
+               <ns1:update_date>2018-01-30 09:55:43</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>171</ns1:total_score>
+               <ns1:note>Limited Beds Surgery,Medical. No Paediatric and critical care beds. 5 electives to be placed</ns1:note>
+               <ns1:update_date>2018-01-30 10:13:05</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>238</ns1:total_score>
+               <ns1:note><![CDATA[OPEL 1** CRITCON 0**: Limited CRC capacity.&#10;47  patients in ED. Waiting time 2 hrs. 3/6 Resus. &#10;Escalation beds in use.&#10;&#10; &#10;&#10;]]></ns1:note>
+               <ns1:update_date>2018-01-30 09:55:54</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>266</ns1:total_score>
+               <ns1:note>15 LAS in Pits stop. 9 offloaded. 4 LAS waiting to offload with 109 minutes wait.</ns1:note>
+               <ns1:update_date>2018-01-30 09:52:58</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>310</ns1:total_score>
+               <ns1:note>Opel Level 2, Trust Status: Sie, Maternity Green with 5 empty spaces, ED no Gen Dr issues. Consultant on shop floor tonight.  SAU  open &amp;#38; functioning. no medical or COE bed capacity. 22 bedwaiters in ED. Very limited capacity across Site. Critical Care has 2 spaces, Paeds full open to 27. 7 99pts in A&amp;#38;E, 7 Resus, 31 Majors with 3hr 45 wait, 27 E-ucc 5hr 52 min wait, 8 Paeds, 0 Triage.</ns1:note>
+               <ns1:update_date>2018-01-30 10:02:50</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>162</ns1:total_score>
+               <ns1:note>OPEL Level 1,Site Status Red, Rag rating Amber, No Gen or ED Dr issues, Consultant on shop floor tonight. Predictor 58.Only 1 male CAU bed and 2 Urology beds. No Paed bed &amp;#38; no cubicle. Paed opened to only 7 due to staff shortages. Critical care have 3 beds. 22 pts in ED: 18 in Majors, 1 Resus and 1 Paed. 5 dtas in ED and NO bed. Waiting time is 2 hours.</ns1:note>
+               <ns1:update_date>2018-01-30 08:54:30</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>180</ns1:total_score>
+               <ns1:note>20 patients in ED with 2 hours 24 min longest wait . Some capacity in Assessment no  medical or OPS beds , very limited surgical capacity .Some ITU capacity . NO Paediatric capacity 2 children waiting for beds . Opel 1</ns1:note>
+               <ns1:update_date>2018-01-30 09:26:28</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>171</ns1:total_score>
+               <ns1:note>Critcon 0: ITU 0. CCU 0.HASU 0. Paeds 4&amp;#10;Nil medical and limited surgical capacity available&amp;#10;Escalation areas open&amp;#10;Unplaced DTAs in ED&amp;#10;</ns1:note>
+               <ns1:update_date>2018-01-30 07:56:20</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>248</ns1:total_score>
+               <ns1:note>Critcon 0. 51 Patients in ED with 8 in Resus. Limited capacity in all specialities. Unplaced DTAs . Long wait in ED.</ns1:note>
+               <ns1:update_date>2018-01-30 09:15:39</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>206</ns1:total_score>
+               <ns1:note>CRITCON 0. ED REMAINS BUSY. No bed capacity in hospital. Unplaced patients in ED. Next update in two hours.</ns1:note>
+               <ns1:update_date>2018-01-30 08:51:49</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>185</ns1:total_score>
+               <ns1:note>critcon 0:// OPEL 2 BLACK ESCALATION ALERT &amp;#10;No ITU and no admitting capacity in medicine or surgery and seven unplaced in A&amp;#38;E. Five patients in recovery.&amp;#10;&amp;#10;Paediatrics: 3 Beds, 15 Cots and 0 PICU, 1 patient in the department no wait to be seen</ns1:note>
+               <ns1:update_date>2018-01-30 10:00:00</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>212</ns1:total_score>
+               <ns1:note>High influx in ED. 8 unplaced DTA. Escalation beds filled.</ns1:note>
+               <ns1:update_date>2018-01-30 09:54:12</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>239</ns1:total_score>
+               <ns1:note>Opel:1.  1 vacant ITU bed. Midwifery, Paeds and  NICU have capacity. Nil adult medical/surgical beds available. 7 patients  unplaced in ED. &amp;#10;All escalation beds open.</ns1:note>
+               <ns1:update_date>2018-01-30 09:37:20</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>0</ns1:total_score>
+               <ns1:note>.</ns1:note>
+               <ns1:update_date>2013-10-30 10:10:20</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>212</ns1:total_score>
+               <ns1:note>No bed capaity. Unplaced medical patients in A&amp;#38;E.</ns1:note>
+               <ns1:update_date>2018-01-30 09:05:50</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>268</ns1:total_score>
+               <ns1:note>OPEL 1. 1 HASU bed.  ITU full. No Paed cubs currently. Minimal medical beds and no female or side room capacity.  2 beds closed due to flu.</ns1:note>
+               <ns1:update_date>2018-01-30 09:55:53</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>174</ns1:total_score>
+               <ns1:note>OPEL level 1. 4 Mental Health patients in the dept. Close Obs room in use. No ITU capacity. No paediatric capacity. No stroke capacity.</ns1:note>
+               <ns1:update_date>2018-01-30 10:12:46</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>1377007176</ns1:hospital_name>
+               <ns1:total_score>177</ns1:total_score>
+               <ns1:note>The trust remains on Opel3 escalation</ns1:note>
+               <ns1:update_date>2018-01-30 09:06:36</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>1378384168</ns1:hospital_name>
+               <ns1:total_score>216</ns1:total_score>
+               <ns1:note>.</ns1:note>
+               <ns1:update_date>2018-01-30 08:23:03</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>218</ns1:total_score>
+               <ns1:note>ED starting to become busy with a full resus and multiple high acuity patients.  No ITU/HDU beds.  Very limited medical and surgical capacity.  Escalation beds open and in use.  Discharge profile poor.</ns1:note>
+               <ns1:update_date>2018-01-30 07:57:56</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>0</ns1:total_score>
+               <ns1:note>.</ns1:note>
+               <ns1:update_date>2017-11-14 13:29:40</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>0</ns1:total_score>
+               <ns1:note>.</ns1:note>
+               <ns1:update_date>2017-11-14 13:29:13</ns1:update_date>
+            </ns1:Hospital>
+            <ns1:Hospital>
+               <ns1:hospital_name>.</ns1:hospital_name>
+               <ns1:total_score>0</ns1:total_score>
+               <ns1:note>.</ns1:note>
+               <ns1:update_date>2017-11-14 13:30:04</ns1:update_date>
+            </ns1:Hospital>
+         </ns1:GetHospitalScoresResult>
+      </ns1:GetHospitalScoresResponse>
+   </env:Body>
+</env:Envelope>

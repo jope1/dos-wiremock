@@ -1,0 +1,38 @@
+<env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="https://nww.pathwaysdos.nhs.uk/app/api/webservices">
+   <env:Body>
+      <ns1:ServiceDetailsByIdResponse>
+         <ns1:services>
+            <ns1:service>
+               <ns1:id>159821</ns1:id>
+               <ns1:odsCode>F83052</ns1:odsCode>
+               <ns1:contactDetails>
+                  <ns1:contactDetail>
+                     <ns1:tag>itk</ns1:tag>
+                     <ns1:name>111 Routing Details</ns1:name>
+                     <ns1:value>https://ygj.oneoneone.nhs.uk/itk\|urn:nhs-itk:interaction:copyRecipientNHS111CDADocument-v2-0\|CDA\|Copy\|\|uncompressed</ns1:value>
+                     <ns1:order>1</ns1:order>
+                  </ns1:contactDetail>
+                  <ns1:contactDetail>
+                     <ns1:tag>itk</ns1:tag>
+                     <ns1:name>111 Routing Details</ns1:name>
+                     <ns1:value>https://ygj.oneoneone.nhs.uk/itk\|urn:nhs-itk:interaction:primaryGeneralPractitionerRecipientNHS111CDADocument-v2-0\|CDA\|Primary\|\|uncompressed</ns1:value>
+                     <ns1:order>1</ns1:order>
+                  </ns1:contactDetail>
+                  <ns1:contactDetail>
+                     <ns1:tag>email</ns1:tag>
+                     <ns1:name>Email Address</ns1:name>
+                     <ns1:value>brookfieldpark@nhs.net\|urn:nhs-itk:interaction:copyRecipientNHS111CDADocument-v2-0\|PDF\|Copy\|\|uncompressed</ns1:value>
+                     <ns1:order>2</ns1:order>
+                  </ns1:contactDetail>
+                  <ns1:contactDetail>
+                     <ns1:tag>email</ns1:tag>
+                     <ns1:name>Email Address</ns1:name>
+                     <ns1:value>brookfieldpark@nhs.net\|urn:nhs-itk:interaction:primaryGeneralPractitionerRecipientNHS111CDADocument-v2-0\|PDF\|Primary\|\|uncompressed</ns1:value>
+                     <ns1:order>2</ns1:order>
+                  </ns1:contactDetail>
+               </ns1:contactDetails>
+            </ns1:service>
+         </ns1:services>
+      </ns1:ServiceDetailsByIdResponse>
+   </env:Body>
+</env:Envelope>

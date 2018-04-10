@@ -1,0 +1,19 @@
+{
+  "request": {
+    "url": "/app/api/webservices",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "contains": "GetHospitalScores"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "./GetHospitalScoresResponse.xml",
+    "fixedDelayMilliseconds": 3600,
+    "headers": {
+      "Content-Type": "application/soap+xml"
+    }
+  }
+}

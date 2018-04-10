@@ -1,0 +1,18 @@
+{
+  "request": {
+    "url": "/app/api/webservices",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "contains": "ServiceAnalysis"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "./ServiceAnalysisResponse.xml",
+    "headers": {
+      "Content-Type": "application/soap+xml"
+    }
+  }
+}

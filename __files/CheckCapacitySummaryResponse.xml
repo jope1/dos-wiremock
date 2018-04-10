@@ -1,0 +1,1042 @@
+<env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope" xmlns:ns1="https://nww.pathwaysdos.nhs.uk/app/api/webservices">
+   <env:Body>
+      <ns1:CheckCapacitySummaryResponse>
+         <ns1:TransactionId>62402CD6-ED40-0FAE-9EC2-9B4C91ACC254</ns1:TransactionId>
+         <ns1:CheckCapacitySummaryResult>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1323782502</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Dental - Bradford, West Yorkshire (Olney Dental Care)</ns1:name>
+               <ns1:contactDetails>01274 720980</ns1:contactDetails>
+               <ns1:address>5 Lister Avenue, Bradford, BD4 7QP</ns1:address>
+               <ns1:postcode>BD4 7QP</ns1:postcode>
+               <ns1:northings>431436</ns1:northings>
+               <ns1:eastings>417867</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>12</ns1:id>
+                  <ns1:name>Dental Services</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode>1323782502</ns1:odsCode>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText></ns1:referralText>
+               <ns1:distance>0.3</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Please advise patients to call the service. 
+
+EXCLUSIONS:
+No instructions specified
+
+INFORMATION TO GIVE TO THE CALLER:
+No instructions specified</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>9</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>9</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>9</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>9</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>9</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1323775011</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Dental - Bradford, West Yorkshire (Wakefield Road Surgery)</ns1:name>
+               <ns1:contactDetails>01274 729012</ns1:contactDetails>
+               <ns1:address>773 Wakefield Road, Bradford, BD4 7PT</ns1:address>
+               <ns1:postcode>BD4 7PT</ns1:postcode>
+               <ns1:northings>431428</ns1:northings>
+               <ns1:eastings>417937</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>12</ns1:id>
+                  <ns1:name>Dental Services</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode>1323775011</ns1:odsCode>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText/>
+               <ns1:distance>0.4</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Please advise patients to call the service. 
+
+EXCLUSIONS:
+No instructions specified
+
+INFORMATION TO GIVE TO THE CALLER:
+No instructions specified</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>45</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>16</ns1:hours>
+                        <ns1:minutes>15</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>45</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>16</ns1:hours>
+                        <ns1:minutes>15</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>45</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>45</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>45</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>14</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>18</ns1:hours>
+                        <ns1:minutes>15</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>12</ns1:hours>
+                        <ns1:minutes>45</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1362471563</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Dental Emergency - Bradford, West Yorkshire (Unplanned Booking Service)</ns1:name>
+               <ns1:contactDetails/>
+               <ns1:address>Horton Park Avenue, Bradford, West Yorkshire, BD7 3EG</ns1:address>
+               <ns1:postcode>BD7 3EG</ns1:postcode>
+               <ns1:northings>432117</ns1:northings>
+               <ns1:eastings>415068</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>47</ns1:id>
+                  <ns1:name>Dental Emergency</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode>136247156301</ns1:odsCode>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText/>
+               <ns1:distance>1.5</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Please send an ITK message to provider at the end of the call and advise the caller that a member of staff from the booking service will contact them within 2 hours in order to arrange the next available appointment, however please note that if the caller contacts 111 between 2300-0700hrs then they will not be contacted until the service re-opens. 
+
+THIS IS A TELEPHONE BOOKING SERVICE ONLY PLEASE DO NOT DIRECT THE CALLER TO THE ADDRESS LISTED.
+
+EXCLUSIONS:
+No instructions specified
+
+INFORMATION TO GIVE TO THE CALLER:
+This is a booking service for unplanned dental appointments in West Yorkshire.</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Saturday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Saturday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Sunday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Sunday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Bankholiday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Bankholiday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1355392683</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Community Nursing - Early Start, Leeds (Health Visitor)</ns1:name>
+               <ns1:contactDetails>0113 2077000</ns1:contactDetails>
+               <ns1:address>Middleton Health Centre, Middleton Park Avenue, Leeds, LS10 4HT</ns1:address>
+               <ns1:postcode>LS10 4HT</ns1:postcode>
+               <ns1:northings>427669</ns1:northings>
+               <ns1:eastings>429949</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>18</ns1:id>
+                  <ns1:name>Health Visitor</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode/>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText/>
+               <ns1:distance>8.2</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Give caller the telephone number and to telephone the service directly.
+Electronic ITK referrals are NOT currently accepted.
+
+EXCLUSIONS:
+This service is only available to under 5s 
+
+INFORMATION TO GIVE TO THE CALLER:
+If the health visitor is out of the office, please ask the caller to leave a message on the answering machine and the Team will respond.</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1356016289</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Community Nursing - Bramley Clinic Early Start, Leeds (Health Visitor)</ns1:name>
+               <ns1:contactDetails>0113 2077000</ns1:contactDetails>
+               <ns1:address>Middleton Health Centre, Middleton Park Avenue, Leeds, LS10 4HT</ns1:address>
+               <ns1:postcode>LS10 4HT</ns1:postcode>
+               <ns1:northings>427669</ns1:northings>
+               <ns1:eastings>429949</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>18</ns1:id>
+                  <ns1:name>Health Visitor</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode/>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText/>
+               <ns1:distance>8.2</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Give caller the telephone number and to telephone the service directly.
+Electronic ITK referrals are NOT currently accepted.
+
+EXCLUSIONS:
+This service is only available to under 5s 
+
+INFORMATION TO GIVE TO THE CALLER:
+If the health visitor is out of the office, please ask the caller to leave a message on the answering machine and the Team will respond.</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>8</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>17</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1362471653</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Dental Emergency - Leeds, West Yorkshire (Unplanned Booking Service)</ns1:name>
+               <ns1:contactDetails/>
+               <ns1:address>Wilmington Grove, Leeds, LS7 2BQ</ns1:address>
+               <ns1:postcode>LS7 2BQ</ns1:postcode>
+               <ns1:northings>435003</ns1:northings>
+               <ns1:eastings>430452</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>47</ns1:id>
+                  <ns1:name>Dental Emergency</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode>1362471653</ns1:odsCode>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText>.</ns1:referralText>
+               <ns1:distance>8.4</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Please send an ITK message to provider at the end of the call and advise the caller that a member of staff from the booking service will contact them within 2 hours in order to arrange the next available appointment, however please note that if the caller contacts 111 between 2300-0700hrs then they will not be contacted until the service re-opens. 
+
+THIS IS A TELEPHONE BOOKING SERVICE ONLY PLEASE DO NOT DIRECT THE CALLER TO THE ADDRESS LISTED.
+
+EXCLUSIONS:
+No instructions specified
+
+INFORMATION TO GIVE TO THE CALLER:
+This is a booking service for unplanned dental appointments in West Yorkshire.</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>23</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Saturday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Saturday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Sunday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Sunday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Bankholiday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Bankholiday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1498545986</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Dental emergency -walk in service</ns1:name>
+               <ns1:contactDetails/>
+               <ns1:address>WILMINGTON GROVE, LEEDS, LS7 2BQ</ns1:address>
+               <ns1:postcode>LS7 2BQ</ns1:postcode>
+               <ns1:northings>435003</ns1:northings>
+               <ns1:eastings>430452</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>45</ns1:id>
+                  <ns1:name>WIC</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode>1362471653</ns1:odsCode>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText>.</ns1:referralText>
+               <ns1:distance>8.4</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Please send an ITK message to provider at the end of the call and advise the caller that a member of staff from the booking service will contact them within 2 hours in order to arrange the next available appointment, however please note that if the caller contacts 111 between 2300-0700hrs then they will not be contacted until the service re-opens. 
+
+THIS IS A TELEPHONE BOOKING SERVICE ONLY PLEASE DO NOT DIRECT THE CALLER TO THE ADDRESS LISTED.
+
+EXCLUSIONS:
+No instructions specified
+
+INFORMATION TO GIVE TO THE CALLER:
+This is a booking service for unplanned dental appointments in West Yorkshire.</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Saturday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Saturday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Sunday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Sunday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+            <ns1:ServiceCareSummaryDestination>
+               <ns1:id>1498548639</ns1:id>
+               <ns1:capacity>High</ns1:capacity>
+               <ns1:name>Dental emergency - phone service</ns1:name>
+               <ns1:contactDetails>0113113113</ns1:contactDetails>
+               <ns1:address>WILMINGTON GROVE, LEEDS, LS7 2BQ</ns1:address>
+               <ns1:postcode>LS7 2BQ</ns1:postcode>
+               <ns1:northings>435003</ns1:northings>
+               <ns1:eastings>430452</ns1:eastings>
+               <ns1:url/>
+               <ns1:serviceType>
+                  <ns1:id>45</ns1:id>
+                  <ns1:name>WIC</ns1:name>
+               </ns1:serviceType>
+               <ns1:odsCode>1362471653</ns1:odsCode>
+               <ns1:nonPublicTelephoneNo/>
+               <ns1:fax/>
+               <ns1:referralText>.</ns1:referralText>
+               <ns1:distance>8.4</ns1:distance>
+               <ns1:notes>Disposition Instructions: HOW IS A REFERRAL MADE TO THIS SERVICE? 
+Please send an ITK message to provider at the end of the call and advise the caller that a member of staff from the booking service will contact them within 2 hours in order to arrange the next available appointment, however please note that if the caller contacts 111 between 2300-0700hrs then they will not be contacted until the service re-opens. 
+
+THIS IS A TELEPHONE BOOKING SERVICE ONLY PLEASE DO NOT DIRECT THE CALLER TO THE ADDRESS LISTED.
+
+EXCLUSIONS:
+No instructions specified
+
+INFORMATION TO GIVE TO THE CALLER:
+This is a booking service for unplanned dental appointments in West Yorkshire.</ns1:notes>
+               <ns1:openAllHours>false</ns1:openAllHours>
+               <ns1:rotaSessions>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Monday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Monday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Tuesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Tuesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Wednesday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Wednesday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Thursday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Thursday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>23</ns1:hours>
+                        <ns1:minutes>0</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Friday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Friday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Saturday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Saturday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Sunday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Sunday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+                  <ns1:ServiceCareItemRotaSession>
+                     <ns1:startDayOfWeek>Bankholiday</ns1:startDayOfWeek>
+                     <ns1:startTime>
+                        <ns1:hours>7</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:startTime>
+                     <ns1:endDayOfWeek>Bankholiday</ns1:endDayOfWeek>
+                     <ns1:endTime>
+                        <ns1:hours>22</ns1:hours>
+                        <ns1:minutes>30</ns1:minutes>
+                     </ns1:endTime>
+                     <ns1:status>Open</ns1:status>
+                  </ns1:ServiceCareItemRotaSession>
+               </ns1:rotaSessions>
+               <ns1:openTimeSpecifiedSessions/>
+            </ns1:ServiceCareSummaryDestination>
+         </ns1:CheckCapacitySummaryResult>
+      </ns1:CheckCapacitySummaryResponse>
+   </env:Body>
+</env:Envelope>

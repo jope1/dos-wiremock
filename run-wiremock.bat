@@ -1,0 +1,1 @@
+java -jar wiremock-standalone-2.14.0.jar --port 7010 --no-request-journal --container-threads 40

@@ -1,0 +1,19 @@
+{
+  "request": {
+    "url": "/app/api/webservices",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "contains": "ServiceDetailsById"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "./ServiceDetailsByIdResponse.xml",
+    "fixedDelayMilliseconds": 600,
+    "headers": {
+      "Content-Type": "application/soap+xml"
+    }
+  }
+}
